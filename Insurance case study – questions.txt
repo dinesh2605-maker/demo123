@@ -1,0 +1,87 @@
+Insurance case study – questions
+
+What is the business situation?
+The org is planning to undertake a digital transformation from legacy onprim mainframe to Guideware cloud based system.
+
+What is the problem or what are the problems?
+
+Slow product rollout cycles (currently 6–9 months for new policy types).
+Fragmented customer data across multiple lines of business.
+High manual overhead in underwriting and claims processing.
+
+Result???
+
+What is the need?
+
+A modern and cloud based insurance platform that can support faster product innovation and operational excellence.
+
+What is the scope of the project?
+
+Cloud migration from on-premise systems to Guidewire Cloud.
+Data unification by centralizing customer profile information.
+Process automation using AI-driven underwriting rules.
+Transformation of underwriting and policy issuance workflows.
+
+in scope / Outscope???
+
+What assumptions and dependencies are required to provide the solution?
+
+Assumptions
+
+Business stakeholders will actively participate in discovery workshops.
+Existing policy and customer data can be migrated with acceptable data quality.
+The client is committed to cloud adoption.
+Guidewire InsuranceSuite is selected as the target platform.
+AI-ML based underwriting rules can be integrated with existing business processes.
+
+Dependencies
+
+Availability of legacy system documentation.
+Data migration readiness.
+Regulatory and compliance approvals.
+Security architecture validations
+Agile Delivery  model.
+
+What are our limitations at the time of providing the solution?
+
+Limited visibility into of architecture of legacy systems.
+Integrations has to be done.
+Final implementation cost and timeline.
+
+What was the solution?
+
+Cloud Migration
+Data unification
+Automations
+
+In what ways is the solution aligned with the business goals, vision, and strategic objectives?
+
+60% reduction in policy issuance time within the first 12 months after deployment.
+Reduced processing time and operational costs improve ROI- 
+seamless data flow across systems.
+
+
+Cloud-based Guidewire platform enables quicker product configuration and deployment.
+AI-driven automation reduces manual underwriting effort
+
+
+
+Above are from vendor prospective.
+
+
+Customers side from my end --- I am a customer
+
+?what businesss situation are we in ?
+?what current businesss problems are we facing followed by are we having ecpectations , followed by limitations 
+?qualification criteria if some one wants to bid the project( Financial and Tech criteria)
+?what are our objectives and goals we want to achieve and how are we excpetingn soltions aligned to that --major Future goals
+?regulatory Standards which are to be considered by vendor? eg US
+?rules and regulations that are to be followed 
+
+
+
+
+
+
+
+
